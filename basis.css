@@ -1,0 +1,24 @@
+
+.main{
+    background-color: aqua;
+    height: 30vh;
+    width: 30vh;
+
+
+}
+.in{
+    padding: 10vh;
+}
+.sign{ 
+    background-color: red;
+    background-size: cover;
+    border-bottom: ;
+    height: 50vh;
+    width: 50vh;
+    
+
+}
+.in{
+    padding: 15vh;
+    align-items: center;
+}
